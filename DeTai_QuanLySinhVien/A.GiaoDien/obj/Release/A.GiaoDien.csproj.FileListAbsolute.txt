@@ -1,0 +1,84 @@
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\A.GiaoDien.exe.config
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\A.GiaoDien.exe
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\A.GiaoDien.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\B.ThaoTac.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\C.DuLieu.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\B.ThaoTac.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\C.DuLieu.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.csprojAssemblyReference.cache
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DangNhap.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DangNhapCoSoDuLieu.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachHeDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachHocKy.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachKhoa.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachKhoaHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachLopHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachMonHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachNganhDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachSinhVien.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachTaiKhoan.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DoiMatKhau.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.GiaoDienChinh.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.HocBong_DSSV.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.KetQuaHocTapCuaSinhVien.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.KhoaHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.MonHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.NhapDiem.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.Properties.Resources.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyHeDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyHocKy.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyKhoa.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyLopHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyNganhDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLySinhVien.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyTaiKhoan.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.RaTruong_DSSV.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.TrangChu.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.csproj.GenerateResource.cache
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.csproj.CopyComplete
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.exe
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\A.GiaoDien.exe.config
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\A.GiaoDien.exe
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\A.GiaoDien.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\B.ThaoTac.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\D.ThongTin.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\C.DuLieu.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\B.ThaoTac.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\D.ThongTin.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\bin\Release\C.DuLieu.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.csprojAssemblyReference.cache
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DangNhap.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DangNhapCoSoDuLieu.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachHeDaoTao.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachHocKy.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachKhoa.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachKhoaHoc.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachLopHoc.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachMonHoc.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachNganhDaoTao.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachSinhVien.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DanhSachTaiKhoan.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.DoiMatKhau.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.GiaoDienChinh.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.HocBong_DSSV.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.KetQuaHocTapCuaSinhVien.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.KhoaHoc.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.MonHoc.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.NhapDiem.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.Properties.Resources.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyHeDaoTao.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyHocKy.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyKhoa.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyLopHoc.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyNganhDaoTao.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLySinhVien.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.QuanLyTaiKhoan.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.RaTruong_DSSV.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.TrangChu.resources
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.csproj.GenerateResource.cache
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.csproj.CopyComplete
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.exe
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\A.GiaoDien\obj\Release\A.GiaoDien.pdb

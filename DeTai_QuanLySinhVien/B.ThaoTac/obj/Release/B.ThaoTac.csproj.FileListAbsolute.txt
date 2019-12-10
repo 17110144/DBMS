@@ -1,0 +1,20 @@
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\B.ThaoTac.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\B.ThaoTac.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\C.DuLieu.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\C.DuLieu.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.csprojAssemblyReference.cache
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.csproj.CopyComplete
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\B.ThaoTac.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\B.ThaoTac.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\C.DuLieu.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\D.ThongTin.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\C.DuLieu.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\bin\Release\D.ThongTin.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.csprojAssemblyReference.cache
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.csproj.CopyComplete
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\B.ThaoTac\obj\Release\B.ThaoTac.pdb

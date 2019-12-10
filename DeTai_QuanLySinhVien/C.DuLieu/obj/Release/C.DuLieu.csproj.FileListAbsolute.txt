@@ -1,0 +1,16 @@
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\C.DuLieu.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\C.DuLieu.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.csprojAssemblyReference.cache
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.csproj.CopyComplete
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\C.DuLieu.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\C.DuLieu.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\D.ThongTin.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\bin\Release\D.ThongTin.pdb
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.csprojAssemblyReference.cache
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.csproj.CopyComplete
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.dll
+C:\GITHUB\DBMS\DeTai_QuanLySinhVien\C.DuLieu\obj\Release\C.DuLieu.pdb

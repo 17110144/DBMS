@@ -1,0 +1,211 @@
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\Vi Du\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe.config
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe.config
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csprojResolveAssemblyReference.cache
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.Properties.Resources.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.GenerateResource.Cache
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.exe
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe.config
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.exe
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csprojResolveAssemblyReference.cache
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.GiaoDiemChinh.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.Properties.Resources.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.GenerateResource.Cache
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachSinhVien.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\C#\BaiTapLon\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLySinhVien.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachLopHoc.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachSinhVien.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLySinhVien.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.NhapDiem.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyLopHoc.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KetQuaHocTapCuaSinhVien.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe.config
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.exe
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.pdb
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.pdb
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.dll
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.dll
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.dll
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.pdb
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.pdb
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.pdb
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csprojResolveAssemblyReference.cache
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachLopHoc.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachSinhVien.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.GiaoDiemChinh.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KetQuaHocTapCuaSinhVien.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.NhapDiem.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.Properties.Resources.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyLopHoc.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLySinhVien.resources
+D:\010\Thu3\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.GenerateResource.Cache
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.HocBong_DSSV.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.RaTruong_DSSV.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoaHoc.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KhoaHoc.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachMonHoc.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.MonHoc.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHocKy.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHocKy.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHeDaoTao.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHeDaoTao.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoa.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyKhoa.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachNganhDaoTao.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyNganhDaoTao.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.GiaoDienChinh.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhap.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DoiMatKhau.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachTaiKhoan.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyTaiKhoan.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.BaoCao.BaoCao.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhapCoSoDuLieu.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.TrangChu.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.TroGiup.resources
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.ThongTin.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe.config
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.exe
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.pdb
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csprojResolveAssemblyReference.cache
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.BaoCao.BaoCao.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhap.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhapCoSoDuLieu.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHeDaoTao.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHocKy.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoa.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoaHoc.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachLopHoc.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachMonHoc.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachNganhDaoTao.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachSinhVien.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachTaiKhoan.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DoiMatKhau.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.GiaoDienChinh.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.HocBong_DSSV.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KetQuaHocTapCuaSinhVien.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KhoaHoc.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.MonHoc.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.NhapDiem.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.Properties.Resources.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHeDaoTao.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHocKy.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyKhoa.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyLopHoc.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyNganhDaoTao.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLySinhVien.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyTaiKhoan.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.RaTruong_DSSV.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.ThongTin.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.TrangChu.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.TroGiup.resources
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.GenerateResource.Cache
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.pdb
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.dll
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.dll
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.dll
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.pdb
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.pdb
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csprojAssemblyReference.cache
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhap.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhapCoSoDuLieu.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHeDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHocKy.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoa.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoaHoc.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachLopHoc.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachMonHoc.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachNganhDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachSinhVien.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachTaiKhoan.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DoiMatKhau.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.GiaoDienChinh.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.HocBong_DSSV.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KetQuaHocTapCuaSinhVien.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KhoaHoc.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.MonHoc.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.NhapDiem.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.Properties.Resources.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHeDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHocKy.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyKhoa.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyLopHoc.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyNganhDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLySinhVien.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyTaiKhoan.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.RaTruong_DSSV.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.TrangChu.resources
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.GenerateResource.cache
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.exe
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe.config
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.dll
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.dll
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.CopyComplete
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe.config
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.exe
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\A.GiaoDien.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\B.ThaoTac.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\bin\Debug\C.DuLieu.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csprojAssemblyReference.cache
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhap.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DangNhapCoSoDuLieu.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHeDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachHocKy.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoa.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachKhoaHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachLopHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachMonHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachNganhDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachSinhVien.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DanhSachTaiKhoan.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.DoiMatKhau.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.GiaoDienChinh.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.HocBong_DSSV.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KetQuaHocTapCuaSinhVien.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.KhoaHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.MonHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.NhapDiem.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.Properties.Resources.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHeDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyHocKy.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyKhoa.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyLopHoc.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyNganhDaoTao.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLySinhVien.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.QuanLyTaiKhoan.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.RaTruong_DSSV.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.TrangChu.resources
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.GenerateResource.cache
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.csproj.CopyComplete
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.exe
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\A.GiaoDien\obj\Debug\A.GiaoDien.pdb

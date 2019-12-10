@@ -1,0 +1,5 @@
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\D.ThongTin\bin\Release\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\D.ThongTin\bin\Release\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\D.ThongTin\obj\Release\D.ThongTin.csprojAssemblyReference.cache
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\D.ThongTin\obj\Release\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\DoAnCuoiKy\Final\DeTai_QuanLySinhVien\D.ThongTin\obj\Release\D.ThongTin.pdb

@@ -1,0 +1,15 @@
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\bin\Debug\D.ThongTin.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\bin\Debug\D.ThongTin.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.dll
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.pdb
+E:\HOC TAP\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.csprojResolveAssemblyReference.cache
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\bin\Debug\D.ThongTin.dll
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\bin\Debug\D.ThongTin.pdb
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.csprojResolveAssemblyReference.cache
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.dll
+E:\HOC TAP - DHXD\HOC KY 8 BLOG 2\Do An SQL\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\bin\Debug\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\bin\Debug\D.ThongTin.pdb
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.csprojAssemblyReference.cache
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.dll
+D:\HCMUTE\HK 5\DBMS\thamkhao\2\doancsdl\DeTai_QuanLySinhVien\D.ThongTin\obj\Debug\D.ThongTin.pdb
