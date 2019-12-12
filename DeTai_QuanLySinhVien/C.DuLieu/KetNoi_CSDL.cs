@@ -19,11 +19,11 @@ namespace C.DuLieu
         {
             if (LuaChon.Equals("Sử Dụng Tài Khoản"))
             {
-                clsKetNoi = @"data source=" + ConfigurationManager.AppSettings["Server"].ToString() + ";initial catalog=QLSINHVIEN5;user id=" + ConfigurationManager.AppSettings["Username"].ToString() + ";password=" + ConfigurationManager.AppSettings["Password"].ToString() + "";
+                clsKetNoi = @"data source=" + ConfigurationManager.AppSettings["Server"].ToString() + ";initial catalog=QLSINHVIEN;user id=" + ConfigurationManager.AppSettings["Username"].ToString() + ";password=" + ConfigurationManager.AppSettings["Password"].ToString() + "";
             }
             if (LuaChon.Equals("Không Dùng Tài Khoản"))
             {
-                clsKetNoi = @"data source=" + ConfigurationManager.AppSettings["Server"].ToString() + ";initial catalog=QLSINHVIEN5; integrated security=True;";
+                clsKetNoi = @"data source=" + ConfigurationManager.AppSettings["Server"].ToString() + ";initial catalog=QLSINHVIEN; integrated security=True;";
             }
             con.ConnectionString = clsKetNoi;
             if (con.State == System.Data.ConnectionState.Closed)
