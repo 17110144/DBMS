@@ -79,12 +79,12 @@ namespace C.DuLieu
             return dt;
         }
 
-        public int CapNhat(string sql)
-        {
-            SqlCommand command = new SqlCommand(sql, con);
-            command.CommandType = CommandType.StoredProcedure;
-            return command.ExecuteNonQuery();
-        }
+        //public int CapNhat(string sql)
+        //{
+        //    SqlCommand command = new SqlCommand(sql, con);
+        //    command.CommandType = CommandType.StoredProcedure;
+        //    return command.ExecuteNonQuery();
+        //}
 
         public int CapNhat(string sql, string[] name, object[] value, int Nparameter)
         {
